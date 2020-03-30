@@ -1,5 +1,5 @@
 # 项目名称
-    停车机器人业务管理系统
+    react管理系统
 
 # 项目构建
 1. npx react-create-app robot_business_manage
